@@ -2,6 +2,9 @@
 
 /* Custom CSS */
 
+body {
+	background-color: #fff;
+}
 header {
   background-color: #4b216a;
   min-height: 55px;
@@ -40,6 +43,9 @@ header h1 {
 }
 .cover {
 	padding: 100px 0 50px 0;
+}
+.cover.-billboard {
+	padding: 0;
 }
 .cover.-purple {
 	background-color: #4b216a;
