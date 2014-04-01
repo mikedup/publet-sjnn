@@ -48,3 +48,9 @@ header h1 {
 .cover.-purple .cover__content p {
 	color: #fff;
 }
+.cover.-photo .cover__content h1 {
+	font-size: 48px;
+}
+.cover.-photo .cover__content h1, .cover.-photo .cover__content p {
+	color: #000;
+}
