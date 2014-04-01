@@ -32,3 +32,19 @@ header h1 {
 .gallery.-list {
   display: none;
 }
+.cover__content p {
+	color: #4b216a;
+	font-size: 24px;
+	line-height: 1.65em;
+	margin-bottom: 0;
+}
+.cover {
+	padding: 100px 0 50px 0;
+}
+.cover.-purple {
+	background-color: #4b216a;
+	color: #fff;
+}
+.cover.-purple .cover__content p {
+	color: #fff;
+}
