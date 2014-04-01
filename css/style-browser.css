@@ -60,3 +60,25 @@ header h1 {
 .cover.-photo .cover__content h1, .cover.-photo .cover__content p {
 	color: #000;
 }
+
+.social-icons {
+	background-color: #4b216a;
+	padding: 50px 0;
+	text-align: center;
+	width: 100%;
+}
+.social-icons h2 {
+	color: #fff;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+}
+.social-icons h2 + a {
+	margin-left: 35px;
+}
+.social-icons a {
+	color: transparent;
+}
+
+footer {
+	display: none;
+}
