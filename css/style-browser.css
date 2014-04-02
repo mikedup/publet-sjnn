@@ -48,6 +48,11 @@ header h1 {
 	line-height: 1.65em;
 	margin-bottom: 0;
 }
+.cover__content p i {
+	display: block;
+	font-size: 16px;
+	font-style: normal;
+}
 .cover {
 	padding: 100px 0 50px 0;
 }
