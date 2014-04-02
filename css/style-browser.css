@@ -9,6 +9,12 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-size: 18px;
 }
+a {
+	color: #4b216a;
+}
+a:hover {
+	color: #7738a5;
+}
 .heading {
 	color: #4b216a;
 	margin-top: 0.5em;
@@ -16,6 +22,7 @@ body {
 .subheading {
 	color: #4b216a;
 	line-height: 1.35em;
+	margin-bottom: 2em;
 }
 header {
   background-color: #4b216a;
@@ -43,6 +50,9 @@ header h1 {
 }
 .share-toggle {
   display: none;
+}
+.article-container {
+	margin-bottom: 0;
 }
 .gallery.-list {
   display: none;
@@ -84,6 +94,28 @@ header h1 {
 .photo-logo {
 	margin-bottom: -40px;
 	padding-top: 75px;
+}
+
+.fellows {
+	font-size: 1.5em;
+	padding-top: 30px;
+	text-align: center;
+}
+.supporters {
+	padding: 75px 0;
+	text-align: center;
+}
+.supporters h2 {
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.supporters__item {
+	display: inline-block;
+	margin: 10px 15px;
+	max-width: 125px;
+}
+.supporters__item img {
+	width: 100%;
 }
 
 .social-icons {
