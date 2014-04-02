@@ -6,9 +6,16 @@
 
 body {
 	background-color: #fff;
-}
-h1, h2, h3, h4, h5, h6 {
 	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+}
+.heading {
+	color: #4b216a;
+	margin-top: 0.5em;
+}
+.subheading {
+	color: #4b216a;
+	line-height: 1.35em;
 }
 header {
   background-color: #4b216a;
@@ -72,6 +79,11 @@ header h1 {
 }
 .cover.-photo .cover__content h1, .cover.-photo .cover__content p {
 	color: #000;
+}
+
+.photo-logo {
+	margin-bottom: -40px;
+	padding-top: 75px;
 }
 
 .social-icons {
