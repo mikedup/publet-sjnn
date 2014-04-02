@@ -7,7 +7,7 @@ body {
 }
 header {
   background-color: #4b216a;
-  min-height: 55px;
+  min-height: 56px;
   width: 100%;
 }
 header .container {
@@ -45,6 +45,7 @@ header h1 {
 	padding: 100px 0 50px 0;
 }
 .cover.-billboard {
+	margin-top: 0;
 	padding: 0;
 }
 .cover.-purple {
